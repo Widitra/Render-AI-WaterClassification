@@ -1,1 +1,9 @@
-fastapi[all]
+fastapi
+uvicorn
+jinja2
+pandas
+numpy
+scikit-learn
+joblib
+python-multipart
+openpyxl
